@@ -21,7 +21,6 @@
   <img align="center" alt="Cesar-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Cesar-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Cesar-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-src="https://cdn.discordapp.com/attachments/973978583754219581/986429291145355284/download20220602213606.png">
   
 </div>
   
